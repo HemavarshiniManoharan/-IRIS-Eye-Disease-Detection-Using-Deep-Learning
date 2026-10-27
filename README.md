@@ -114,7 +114,7 @@ The project demonstrates:
 
 ## 📁 Project Files
 
-- `IRIS_Eye_Disease_Detection.ipynb` – Notebook containing dataset exploration, preprocessing, model development, and prediction workflows.
+- `IRIS.ipynb` – Notebook containing dataset exploration, preprocessing, model development, and prediction workflows.
 - `README.md` – Project documentation.
 - `iris_classifier.keras` – Saved EfficientNet-B0 classification model.
 - `iris_unet.keras` – Saved U-Net segmentation model.
